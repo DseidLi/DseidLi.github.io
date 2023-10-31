@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://DseidLi.github.io/DseidLi.github.io//sitemap.xml
+Sitemap: https://DseidLi.github.io/sitemap.xml
